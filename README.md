@@ -1,4 +1,14 @@
-1-to-1 RTC: Sample App Angular8, EnableX Web Toolkit
+# 1-to-1 RTC Video Chat App with Angular 8: Using EnableX Web Toolkit for Real-Time Communication
+
+Explore a 1-to-1 RTC Sample App with Angular 8 and EnableX Web Toolkit
+
+This sample web application showcases the utilization of EnableX platform APIs to facilitate 1-to-1 RTC (Real-Time Communication). The primary goal of this application is to provide a practical demonstration of API usage, allowing developers to enhance their app development skills by hosting it on their own devices, eliminating the need for direct server integration.
+
+Notably, RTC applications hosted on the EnableX platform seamlessly run on supported web browsers without requiring additional plugin downloads. 
+
+This basic 1-to-1 Video Chat Application is developed using Angular 8, Angular CLI 9.1.7, HTML, CSS, Bootstrap v4.0.0-alpha.6, JavaScript, jQuery, and EnxRtc (The EnableX Web Toolkit).
+
+For details about the supported set of web browsers, visit: https://developer.enablex.io/video/browser-compatibility-of-enablex-video/. This application serves as an invaluable resource for developers seeking to delve into RTC and API integration within their web applications.
 
 The Sample Web App demonstrates the use of APIs for EnableX platform to carry out 1-to-1 RTC (Real Time Communication). The main motivation behind this application is to demonstrate usage of APIs and allow developers to ramp up on app by hosting on their own devices instead of directly using servers.
 
