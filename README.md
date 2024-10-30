@@ -8,7 +8,7 @@ Notably, RTC applications hosted on the EnableX platform seamlessly run on suppo
 
 This basic 1-to-1 Video Chat Application is developed using Angular 8, Angular CLI 9.1.7, HTML, CSS, Bootstrap v4.0.0-alpha.6, JavaScript, jQuery, and EnxRtc (The EnableX Web Toolkit).
 
-For details about the supported set of web browsers, visit: https://developer.enablex.io/video/browser-compatibility-of-enablex-video/. This application serves as an invaluable resource for developers seeking to delve into RTC and API integration within their web applications.
+For details about the supported set of web browsers, visit: https://developer.enablex.io/docs/quickstart/video/browser-compatibility/index/. This application serves as an invaluable resource for developers seeking to delve into RTC and API integration within their web applications.
 
 The Sample Web App demonstrates the use of APIs for EnableX platform to carry out 1-to-1 RTC (Real Time Communication). The main motivation behind this application is to demonstrate usage of APIs and allow developers to ramp up on app by hosting on their own devices instead of directly using servers.
 
@@ -17,7 +17,7 @@ RTC Applications hosted on EnableX platform run natively on supported set of web
 This basic 1-to-1 Video Chat Application is developed using Angular8, Angular CLI  9.1.7 (https://github.com/angular/angular-cli), HTML, CSS, Bootstrap v4.0.0-alpha.6, JAVA Script, jQuery, EnxRtc (The EnableX Web Toolkit).
 
 > The details of the supported set of web browsers can be found here:
-> https://developer.enablex.io/video/browser-compatibility-of-enablex-video/
+> https://developer.enablex.io/docs/quickstart/video/browser-compatibility/index/
 
 ## 1. Important!
 
@@ -26,7 +26,7 @@ When developing a Client End Point Application, make sure to include the updated
 ## 2. Trial
 
 Try a quick Video Call: https://try.enablex.io/ 
-Sign up for a free trial https://portal.enablex.io/cpaas/trial-sign-up/
+Sign up for a free trial  https://www.enablex.io/free-trial/
 
 
 ## 3 Installation
@@ -45,12 +45,12 @@ are to be used as Username and Password respectively to pass as HTTP Basic Authe
 
 For this application, the following Server API calls are used:
 
-- https://developer.vcloudx.com/video-api/server-api/rooms-route/#get-rooms - To get list of Rooms
-- https://developer.vcloudx.com/video-api/server-api/rooms-route/#get-room-info - To get information of the given Room
-- https://developer.vcloudx.com/video-api/server-api/rooms-route/#create-token - To create Token for the given Room
+- https://developer.enablex.io/docs/references/apis/video-api/content/api-routes/#get-a-list-of-rooms - To get list of Rooms
+- https://developer.enablex.io/docs/references/apis/video-api/content/api-routes/#get-room-information - To get information of the given Room
+- https://developer.enablex.io/docs/references/apis/video-api/content/api-routes/#create-a-token - To create Token for the given Room
 
 To know more about Server API, go to:
-https://developer.vcloudx.com/video-api/server-api/
+https://developer.enablex.io/docs/references/apis/video-api/index/
 
 
 ## 5 Client API
